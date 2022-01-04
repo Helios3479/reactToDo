@@ -1,5 +1,8 @@
 # This Todo list was created with React. Follow the below instructions to use.
 
+This project allows one to have their very own todo list. The list can check off completed items and can filter between all, completed, and uncompleted. There is also local
+storage so that information is saved upon closing/restarting a session.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
